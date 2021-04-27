@@ -36,7 +36,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "@angular-devkit/core": "11.2.10",
-    "@angular-devkit/schematics": "fresto32/angular-schematics",
+    "@angular-devkit/schematics": "https://nexus.au.lmco.com/repository/github-proxy/fresto32/angular-schematics/archive/refs/tags/11.2.10-fix.tar.gz",
     "@schematics/schematics": "0.1102.10",
     "ansi-colors": "4.1.1",
     "inquirer": "7.3.3",
