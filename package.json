@@ -1,0 +1,75 @@
+{
+  "_from": "@angular-devkit/schematics-cli@0.1102.10",
+  "_id": "@angular-devkit/schematics-cli@0.1102.10",
+  "_inBundle": false,
+  "_integrity": "sha512-sIO5MAsobw7Hs3Ks1nbkXaK2MvFjHYzTgDVHRT4YPwgVKE++Yz9d15i+pq0d6w5frOQdLrtMKvMfQEIwsA0MTg==",
+  "_location": "/@angular-devkit/schematics-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@angular-devkit/schematics-cli@0.1102.10",
+    "name": "@angular-devkit/schematics-cli",
+    "escapedName": "@angular-devkit%2fschematics-cli",
+    "scope": "@angular-devkit",
+    "rawSpec": "0.1102.10",
+    "saveSpec": null,
+    "fetchSpec": "0.1102.10"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@angular-devkit/schematics-cli/-/schematics-cli-0.1102.10.tgz",
+  "_shasum": "958d3a1b8e182be76fb056553c17c86515ffc886",
+  "_spec": "@angular-devkit/schematics-cli@0.1102.10",
+  "_where": "/home/fresto32/Documents/workspaces/angular-fixes",
+  "author": {
+    "name": "Angular Authors"
+  },
+  "bin": {
+    "schematics": "bin/schematics.js"
+  },
+  "bugs": {
+    "url": "https://github.com/angular/angular-cli/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@angular-devkit/core": "11.2.10",
+    "@angular-devkit/schematics": "fresto32/angular-schematics",
+    "@schematics/schematics": "0.1102.10",
+    "ansi-colors": "4.1.1",
+    "inquirer": "7.3.3",
+    "minimist": "1.2.5",
+    "symbol-observable": "3.0.0"
+  },
+  "deprecated": false,
+  "description": "Angular Schematics - CLI",
+  "engines": {
+    "node": ">= 10.13.0",
+    "npm": "^6.11.0 || ^7.5.6",
+    "yarn": ">= 1.13.0"
+  },
+  "experimental": true,
+  "homepage": "https://github.com/angular/angular-cli",
+  "keywords": [
+    "angular",
+    "Angular CLI",
+    "devkit",
+    "sdk",
+    "Angular DevKit",
+    "blueprints",
+    "scaffolding",
+    "template",
+    "tooling",
+    "code generation",
+    "schematics"
+  ],
+  "license": "MIT",
+  "name": "@angular-devkit/schematics-cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular-cli.git"
+  },
+  "version": "0.1102.10"
+}
